@@ -1,0 +1,10 @@
+F:\百度云\Develop\RabbitMQ\Wenli.Data.RabbitMQ\Wenli.Data.RabbitMQ\bin\Debug\Wenli.Data.RabbitMQ.dll
+F:\百度云\Develop\RabbitMQ\Wenli.Data.RabbitMQ\Wenli.Data.RabbitMQ\bin\Debug\Wenli.Data.RabbitMQ.pdb
+F:\百度云\Develop\RabbitMQ\Wenli.Data.RabbitMQ\Wenli.Data.RabbitMQ\obj\Debug\Wenli.Data.RabbitMQ.csprojResolveAssemblyReference.cache
+F:\百度云\Develop\RabbitMQ\Wenli.Data.RabbitMQ\Wenli.Data.RabbitMQ\obj\Debug\Wenli.Data.RabbitMQ.dll
+F:\百度云\Develop\RabbitMQ\Wenli.Data.RabbitMQ\Wenli.Data.RabbitMQ\obj\Debug\Wenli.Data.RabbitMQ.pdb
+F:\百度云\Develop\RabbitMQ\Wenli.Data.RabbitMQ\Wenli.Data.RabbitMQ\bin\Debug\RabbitMQ.Client.dll
+F:\百度云\Develop\RabbitMQ\Wenli.Data.RabbitMQ\Wenli.Data.RabbitMQ\bin\Debug\RabbitMQ.Client.xml
+F:\百度云\Develop\RabbitMQ\Wenli.Data.RabbitMQ\Wenli.Data.RabbitMQ\bin\Debug\protobuf-net.dll
+F:\百度云\Develop\RabbitMQ\Wenli.Data.RabbitMQ\Wenli.Data.RabbitMQ\bin\Debug\protobuf-net.pdb
+F:\百度云\Develop\RabbitMQ\Wenli.Data.RabbitMQ\Wenli.Data.RabbitMQ\bin\Debug\protobuf-net.xml
