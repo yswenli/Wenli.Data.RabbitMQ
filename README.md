@@ -4,6 +4,21 @@ Wenli.Data.RabbitMQ
 
 <img src="https://github.com/yswenli/Wenli.Data.RabbitMQ/blob/master/Wenli.Data.RabbitMQ.Console/QQ%E4%BA%94%E7%AC%94%E6%88%AA%E5%9B%BE%E6%9C%AA%E5%91%BD%E5%90%8D.png?raw=true" alt="wenli.data.rabbitmq"/>
 
+配置节点如下：
+
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+    <section name="MQConfig" type="Wenli.Data.RabbitMQ.MQConfig,Wenli.Data.RabbitMQ"/>
+  </configSections>
+  <MQConfig Server="127.0.0.1" Port="5672" User="wenli" Password="wenli" RouteName="IMMQ" RouteType="direct" VirtualHost="/"  QosCount="20000"/>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+  </startup>
+</configuration>
+
+
+示例代码如下：
 
 using System;
 using System.Collections.Generic;
