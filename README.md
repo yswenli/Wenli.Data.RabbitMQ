@@ -6,16 +6,16 @@ Wenli.Data.RabbitMQ
 
 配置节点如下：
 
-<?xml version="1.0" encoding="utf-8" ?>
-<configuration>
-  <configSections>
-    <section name="MQConfig" type="Wenli.Data.RabbitMQ.MQConfig,Wenli.Data.RabbitMQ"/>
-  </configSections>
-  <MQConfig Server="127.0.0.1" Port="5672" User="wenli" Password="wenli" RouteName="IMMQ" RouteType="direct" VirtualHost="/"  QosCount="20000"/>
-  <startup>
-    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
-  </startup>
-</configuration>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot; ?&gt;
+&lt;configuration&gt;
+  &lt;configSections&gt;
+    &lt;section name=&quot;MQConfig&quot; type=&quot;Wenli.Data.RabbitMQ.MQConfig,Wenli.Data.RabbitMQ&quot;/&gt;
+  &lt;/configSections&gt;
+  &lt;MQConfig Server=&quot;127.0.0.1&quot; Port=&quot;5672&quot; User=&quot;wenli&quot; Password=&quot;wenli&quot; RouteName=&quot;IMMQ&quot; RouteType=&quot;direct&quot; VirtualHost=&quot;/&quot;  QosCount=&quot;20000&quot;/&gt;
+  &lt;startup&gt;
+    &lt;supportedRuntime version=&quot;v4.0&quot; sku=&quot;.NETFramework,Version=v4.5&quot; /&gt;
+  &lt;/startup&gt;
+&lt;/configuration&gt;
 
 
 示例代码如下：
